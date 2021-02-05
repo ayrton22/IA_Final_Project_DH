@@ -1,0 +1,5 @@
+.vscode
+__pycache__/
+core/__pycache__/
+checkpoints/
+data/custom.weights
