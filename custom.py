@@ -39,6 +39,7 @@ def top_3_k(y_true, y_pred):
         tf.keras.metrics.top_k_categorical_accuracy(y_true, y_pred, k=3)
     )
 
+
 # Custom loss
 
 
