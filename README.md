@@ -1,7 +1,7 @@
 # License Plate Recognition
 
 ## Drive Link with models:
-https://drive.google.com/file/d/1gae-AXkgCj9liuEAHNmypdjOKrKkWJYN/view?usp=sharing\ 
+https://drive.google.com/file/d/1gae-AXkgCj9liuEAHNmypdjOKrKkWJYN/view?usp=sharing \ 
 put custom.weights file inside Data Folder
 
 ## Command to test with an image:
