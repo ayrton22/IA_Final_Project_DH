@@ -1,5 +1,8 @@
 # License Plate Recognition
 
+## Drive Link with models:
+https://drive.google.com/file/d/1gae-AXkgCj9liuEAHNmypdjOKrKkWJYN/view?usp=sharing
+
 ## Command to test with an image:
 python detect.py --weights ./checkpoints/custom-416 --size 416 --model yolov4 --images ./data/images/patente1.jpg --crop --info --plate
 
